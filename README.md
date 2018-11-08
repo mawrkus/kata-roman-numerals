@@ -1,4 +1,4 @@
-# Roman Numerals Kata
+# Roman Numerals Kata 🌱
 
 Source: http://kata-log.rocks/roman-numerals-kata
 
